@@ -1,4 +1,3 @@
-package adventureGame;
 //Joshua Walchle 2021 do not steal plz
 
 import java.util.Random;
