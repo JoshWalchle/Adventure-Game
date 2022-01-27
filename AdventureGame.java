@@ -11,7 +11,7 @@ public class AdventureGame {
 		Random rand = new Random();
 		
 		//Game variables
-		String[] enemies = {"Jimmy", "Feral Dentist", "Ancient Black Dragon", "Gregly" };
+		String[] enemies = {"Jimmy", "Feral Dentist", "Ancient Black Dragon", "Suspicious Looking Rock" };
 		int maxEnemyHealth = 75;
 		int enemyAttackDamage = 25;
 		
